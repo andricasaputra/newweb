@@ -2,10 +2,10 @@
 	<section id="portfolio" class="portfolio">
   <div class="container">
     <div class="row text-center mt-5">
-      <h1 class="display-3 fw-bold text-capitalize">Latest work</h1>
+      <h1 class="display-3 fw-bold text-capitalize">Sekilas Berita</h1>
       <div class="heading-line"></div>
       <p class="lead">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint porro temporibus distinctio.
+        Kumpulan berita-berita terupdate seputar karantina pertanian!.
       </p>
     </div>
     <!-- FILTER BUTTONS  -->

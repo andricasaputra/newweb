@@ -13,8 +13,8 @@
           </svg>
         </div>
         <div class="contact-box__info">
-          <a href="#" class="contact-box__info--title">+1 728365413</a>
-          <p class="contact-box__info--subtitle">  Mon-Fri 9am-6pm</p>
+          <a href="#" class="contact-box__info--title">+62813 3990 1664</a>
+          <p class="contact-box__info--subtitle">  Senin-Jumat 9.00-15.00 WITA</p>
         </div>
       </div>  
       <!-- CONTENT FOR EMAIL  -->
@@ -29,8 +29,8 @@
           </svg>
         </div>
         <div class="contact-box__info">
-          <a href="#" class="contact-box__info--title">info@company.com</a>
-          <p class="contact-box__info--subtitle">Online support</p>
+          <a href="#" class="contact-box__info--title">karantinasumbawa@pertanian.go.id</a>
+          <p class="contact-box__info--subtitle">Email Kami</p>
         </div>
       </div>
       <!-- CONTENT FOR LOCATION  -->
@@ -46,8 +46,8 @@
           </svg>
         </div>
         <div class="contact-box__info">
-          <a href="#" class="contact-box__info--title">New York, USA</a>
-          <p class="contact-box__info--subtitle">NY 10012, US</p>
+          <a href="#" class="contact-box__info--title">Jln. Pelabuhan Badas No. 01 </a>
+          <p class="contact-box__info--subtitle">Sumbawa Besar, NTB</p>
         </div>
       </div>
     </div>
@@ -58,7 +58,7 @@
     <div class="container">
       <div class="row py-4 text-center text-white">
         <div class="col-lg-5 col-md-6 mb-4 mb-md-0">
-          connect with us on social media
+          hubungi kami diberbagai sosaial media
         </div>
         <div class="col-lg-7 col-md-6">
           <a href="#"><i class="fab fa-facebook"></i></a>
@@ -75,40 +75,38 @@
   <div class="container mt-5">
     <div class="row text-white justify-content-center mt-3 pb-3">
       <div class="col-12 col-sm-6 col-lg-6 mx-auto">
-        <h5 class="text-capitalize fw-bold">Campany name</h5>
+        <h5 class="text-capitalize fw-bold">Stasiun Karantina Pertanian Kelas I Sumbawa Besar</h5>
         <hr class="bg-white d-inline-block mb-4" style="width: 60px; height: 2px;">
         <p class="lh-lg">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ex obcaecati blanditiis reprehenderit ab mollitia voluptatem consectetur?
+          Kementerian Pertanian, Badan Karantina Pertanian, Republik Indonesia. <strong>Profesional, Tangguh, Terpercaya!</strong>
         </p>
       </div>
       <div class="col-12 col-sm-6 col-lg-2 mb-4 mx-auto">
-        <h5 class="text-capitalize fw-bold">Products</h5>
+        <h5 class="text-capitalize fw-bold">Layanan</h5>
         <hr class="bg-white d-inline-block mb-4" style="width: 60px; height: 2px;">
         <ul class="list-inline campany-list">
-          <li><a href="#">Lorem ipsum</a></li>
-          <li><a href="#">Lorem ipsum</a></li>
-          <li><a href="#">Lorem ipsum</a></li>
-          <li><a href="#">Lorem ipsum</a></li>
+          <li><a href="#">Karantina hewan</a></li>
+          <li><a href="#">Karantina tumbuhan</a></li>
+          <li><a href="#">Keterbukaan informasi</a></li>
         </ul>
       </div>
       <div class="col-12 col-sm-6 col-lg-2 mb-4 mx-auto">
-        <h5 class="text-capitalize fw-bold">useful links</h5>
+        <h5 class="text-capitalize fw-bold">Tautan terkait</h5>
         <hr class="bg-white d-inline-block mb-4" style="width: 60px; height: 2px;">
         <ul class="list-inline campany-list">
-          <li><a href="#"> Your Account</a></li>
-          <li><a href="#">Become an Affiliate</a></li>
-          <li><a href="#">create an account</a></li>
-          <li><a href="#">Help</a></li>
+          <li><a href="#"> Kementerian Pertanian</a></li>
+          <li><a href="#">Badan karantina Pertanian</a></li>
+          <li><a href="#">IQFAST</a></li>
+          <li><a href="#">EQOSISTEM</a></li>
         </ul>
       </div>
       <div class="col-12 col-sm-6 col-lg-2 mb-4 mx-auto">
-        <h5 class="text-capitalize fw-bold">contact</h5>
+        <h5 class="text-capitalize fw-bold">Kontak</h5>
         <hr class="bg-white d-inline-block mb-4" style="width: 60px; height: 2px;">
         <ul class="list-inline campany-list">
-          <li><a href="#">Lorem ipsum</a></li>
-          <li><a href="#">Lorem ipsum</a></li>
-          <li><a href="#">Lorem ipsum</a></li>
-          <li><a href="#">Lorem ipsum</a></li>
+          <li><a href="#">Humas SKP Sumbawa</a></li>
+          <li><a href="#">Tim PPID SKP Sumbawa</a></li>
+          <li><a href="#">Call Center</a></li>
         </ul>
       </div>
     </div>
@@ -120,9 +118,7 @@
       <div class="row text-center text-white">
         <div class="col-12">
           <div class="footer-bottom__copyright">
-            &COPY; Copyright 2021 <a href="#">Company</a> | Created by <a href="http://codewithpatrick.com" target="_blank">Muriungi</a><br><br>
-
-            Distributed by <a href="http://themewagon.com" target="_blank">ThemeWagon</a>
+            &COPY; Copyright 2022 <a href="#">SKP Kelas I Sumbawa Besar</a>
           </div>
         </div>
       </div>

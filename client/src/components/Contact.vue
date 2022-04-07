@@ -2,10 +2,10 @@
 	<section id="contact" class="get-started">
   <div class="container">
     <div class="row text-center">
-      <h1 class="display-3 fw-bold text-capitalize">Get started</h1>
+      <h1 class="display-3 fw-bold text-capitalize">Kontak Kami</h1>
       <div class="heading-line"></div>
       <p class="lh-lg">
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero illum architecto modi.
+        Jika Anda Mempunyai Keluhan, Kritik Atau Saran Terhadap Pelayanan Kami Silahkan Hubungi Kami Dengan Mengisi Form Dibawah Ini.
       </p>
     </div>
 
@@ -13,37 +13,30 @@
     <div class="row text-white">
       <div class="col-12 col-lg-6 gradient shadow p-3">
         <div class="cta-info w-100">
-          <h4 class="display-4 fw-bold">100% Satisfaction Guaranteed</h4>
-          <p class="lh-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam alias optio minima, tempore architecto sint ipsam dolore tempora facere laboriosam corrupti!
-          </p>
-          <h3 class="display-3--brief">What will be the next step?</h3>
-          <ul class="cta-info__list">
-            <li>We'll prepare the proposal.</li>
-            <li>we'll discuss it together.</li>
-            <li>let's start the discussion.</li>
-          </ul>
+          <iframe width="426" height="240" src="https://www.youtube.com/embed/GpoE0v0Wxws?list=PLBL9YmrcMdlqvYX5PZThj4426b5LfnKgw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+          <br><br>
+          <iframe width="426" height="240" src="https://www.youtube.com/embed/dZ7V_Nw1Wnk?list=PLBL9YmrcMdlqvYX5PZThj4426b5LfnKgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
       <div class="col-12 col-lg-6 bg-white shadow p-3">
         <div class="form w-100 pb-2">
-          <h4 class="display-3--title mb-5">start your project</h4>
+          <h4 class="display-3--title mb-5">Silahkan Isi Form Berikut</h4>
           <form action="#" class="row">
             <div class="col-lg-6 col-md mb-3">
-              <input type="text" placeholder="First Name" id="inputFirstName" class="shadow form-control form-control-lg">
+              <input type="text" placeholder="First Nama Lengkap" id="inputFirstName" class="shadow form-control form-control-lg">
+            </div>
+            <div class="col-lg-12 mb-3">
+              <input type="email" placeholder="Alamat Email" id="inputEmail" class="shadow form-control form-control-lg">
             </div>
             <div class="col-lg-6 col-md mb-3">
-              <input type="text" placeholder="Last Name" id="inputLastName" class="shadow form-control form-control-lg">
+              <input type="text" placeholder="Nomor Telepon" id="inputNoTelepon" class="shadow form-control form-control-lg">
             </div>
             <div class="col-lg-12 mb-3">
-              <input type="email" placeholder="email address" id="inputEmail" class="shadow form-control form-control-lg">
-            </div>
-            <div class="col-lg-12 mb-3">
-              <textarea name="message" placeholder="message" id="message" rows="8" class="shadow form-control form-control-lg"></textarea>
+              <textarea name="message" placeholder="Pesan" id="message" rows="8" class="shadow form-control form-control-lg"></textarea>
             </div>
             <div class="text-center d-grid mt-1">
               <button type="button" class="btn btn-primary rounded-pill pt-3 pb-3">
-                submit
+                Kirim
                 <i class="fas fa-paper-plane"></i>
               </button>
             </div>
